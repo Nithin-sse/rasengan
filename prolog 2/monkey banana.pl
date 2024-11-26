@@ -1,3 +1,4 @@
+% at(Position, banana). %
 on(floor,monkey).
 on(floor,chair).
 in(room,monkey).

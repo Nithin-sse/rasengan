@@ -1,3 +1,4 @@
+% studies(Student, csc135). %
 studies(charlie, csc135).
 studies(olivia, csc135).
 studies(jack, csc131).

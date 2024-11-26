@@ -1,3 +1,4 @@
+% move(2, source, destination, auxiliary). %
 move(1,X,Y,_) :-
          write('Move top disk from '),
          write(X),

@@ -1,3 +1,7 @@
+% hypothesis(_, Disease),
+symptom(_, fever),
+symptom(_, rash).
+ %
 symptom(amit,fever).
     symptom(amit,rash).
     symptom(amit,headache).

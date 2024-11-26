@@ -1,3 +1,4 @@
+% owns(mary, Pet). %
 cat(fubby).
 black_spots(fubby).
 dog(figaro).
